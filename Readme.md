@@ -11,3 +11,9 @@ Curso ótimo para iniciantes
 * Reset de repositórios;
 * Linkagem de repositório local com remoto;
 * Enviar atualizações do local para o remoto;
+* Fork;
+* Criação, manejo de unção de branches com merge e rebase;
+* Git stash;
+* Alias;
+* Tags;
+* Git revert;
